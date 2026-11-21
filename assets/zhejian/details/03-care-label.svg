@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#253447" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round">
+  <title>洗护</title>
+  <path d="M5.2 3.5h13.6v13.1c0 1.8-1.2 3-2.8 3H7.7c-1.4 0-2.5-1.1-2.5-2.5Z"/>
+  <path d="M5.2 7.5h13.6M15.9 19.6c1.2-.8 1.5-2 1.5-3.4h-5.5" />
+  <path d="M8 5.4h1.2m2.1 0h1.2m2.1 0h1.2" stroke-width="1.05"/>
+  <path d="M8.3 11.25h6m-6 2.75H12" stroke-width="1.2"/>
+</svg>

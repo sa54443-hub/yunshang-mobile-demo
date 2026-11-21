@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <g id="corner-print" fill="none" stroke="currentColor" stroke-width=".8">
+   <path d="M1 17V1h16M5 13V5h8M5 5l6 6m1 .5q5-1 4 2.5-3 1-4-2.5Z"/>
+  </g>
+  <g id="fan-print" stroke="currentColor" stroke-linejoin="round" stroke-linecap="round">
+   <path d="M15.8 21.8 1.9 11.7Q2.7 8 6 8q.4-3.2 4-3.2Q12 1.9 15.3 3q2.6-2 5.1.4 3.1-.2 4.4 3.1 3.5.4 4 3.1 2.1 1.3 1.6 3.8Z" fill="#ddbc99" stroke-width="1"/>
+   <g fill="none" stroke-width=".7"><path d="M15.8 20.7 5.9 8m10 13L10 4.8m6 16L15.3 3m.7 18L20.4 3.4M16 21l8.8-14.5M16 21l12.7-11.4M5 10.8q10-11.5 23.3 1.5"/><path d="m15.7 21.8-.7 1.5m1.8-1.5.8 1.1"/></g>
+   <circle cx="15.8" cy="20.8" r=".9" fill="currentColor"/>
+  </g>
+  <g id="ticket-print" fill="none" stroke="currentColor" stroke-width=".85">
+   <path vector-effect="non-scaling-stroke" d="M2 1.5h156v14q-6 5 0 10.5v14.5H2V26q6-5.5 0-10.5Z"/>
+   <path vector-effect="non-scaling-stroke" stroke-width=".45" d="M7 5h146M7 36.5h146"/>
+  </g>
+ </defs>
+</svg>
